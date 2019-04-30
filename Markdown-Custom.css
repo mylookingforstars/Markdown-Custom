@@ -1,0 +1,27 @@
+/* 
+ * Markdow样式自定义
+ * @XF
+ * 2019年4月30日
+*/
+
+/* 全局默认字体和颜色 */
+body{
+    background: #2b2b2b;
+    color: #a9b7c7;
+    font-size: 18px;
+    font-family: 'Microsoft YaHei UI';
+}
+
+body pre code div {
+    background: #1e1e1e;
+    color: #a9b7c7;
+    border-radius: 30px;
+    padding: 5px 0;
+    font-family: 'Source Code Pro',Consolas, 'Courier New', monospace;
+    font-size: 16px;
+    line-height: 24px; 
+}
+
+body a {
+    color: #3794ff;
+}
