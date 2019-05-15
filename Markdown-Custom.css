@@ -7,7 +7,7 @@
 /* 全局默认字体和颜色 */
 body{
     background: #fff;
-    color: #a9b7c7;
+    color: #2e2f3e;
     font-size: 16px!important;
     font-family: 'Microsoft YaHei UI'!important;
     line-height: 1.8!important;
@@ -15,7 +15,7 @@ body{
 
 body pre code div {
     background: #1e1e1e;
-    color: #2e2f3e;
+    color: #a9b7c7;
     border-radius: 10px;
     padding: 5px 0;
     font-family: 'Source Code Pro',Consolas, 'Courier New', monospace;
